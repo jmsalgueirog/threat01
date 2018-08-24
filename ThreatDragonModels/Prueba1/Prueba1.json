@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Prueba1",
+    "owner": "José M. Salgueiro",
+    "description": "Solo es una prueba"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Planta 1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "El mismo"
+  }
+}
